@@ -367,7 +367,6 @@ for l in links:
     inner_table = inf_table.findAll('table', class_ = 'object_descr_props flat sale')
     inner_table = inner_table[0]
     
-    getCoords(flat_page)
     house_coords = getCoords(flat_page)
     
     flats_dict[N] = {
