@@ -1,6 +1,6 @@
-# CMF_Parser_CIAN
+# CMF MSU
 
-CMF MSU
-Center of Mathematical Finance Moscow State University
+Center of Mathematical Finance
+Moscow State University
 
-HW - Parsing cian.ru
+HW - Parsing [cian.ru](cian.ru)
