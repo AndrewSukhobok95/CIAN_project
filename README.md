@@ -1,12 +1,12 @@
 # CMF MSU
 
 Center of Mathematical Finance
-Moscow State University
+Moscow State University 
 
 HW - Parsing [cian.ru](cian.ru)
 
 Фрмулировка задания:
-\n
+
 Итак, вам нужно распарсить CIAN.ru и получить из него следующий список переменных по каждой квартирке из каждого округа Москвы
 N – номер квартиры по порядку
 Rooms – число комнат
